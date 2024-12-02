@@ -1,4 +1,4 @@
----
+manhwaland.mom has changed to manhwaland.host please help change it
 title: Troubleshooting
 titleTemplate: Guides
 description: Facing source or app issues? Here's how to troubleshoot.
